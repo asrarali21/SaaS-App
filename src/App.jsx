@@ -6,18 +6,18 @@ function App() {
 
   return (
     <>
-     <div className="bg-[#07090F] h-auto font-[inter] overflow-x-hidden" >
+     <div className="bg-[#07090F] h-screen font-[inter] overflow-x-hidden" >
       <Header />
-      {/* <Hero />
-      <About />
+        <Hero />  
+      {/* <About />
       <Benefits />
       <Integrations />
       <Pricing />
       <Testimonials />
       <Faqs />
       <CTA />
-      <Footer /> */}
-    </div>
+      <Footer />  */}
+      </div>
     </>
   )
 }
