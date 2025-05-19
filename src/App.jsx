@@ -9,8 +9,8 @@ function App() {
      <div className="bg-[#07090F] h-screen font-[inter] overflow-x-hidden" >
       <Header />
         <Hero />  
-      {/* <About />
-      <Benefits />
+       <About />
+      {/*<Benefits />
       <Integrations />
       <Pricing />
       <Testimonials />
